@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🧠 Strong background in **neural networks, deep learning, and secure ML**  
 - ⚙️ Industry expertise in **IoT, microservices, and large-scale data pipelines**  
-- 🔧 Experienced with **Python, Kafka, Elasticsearch, FastAPI, Docker, Kubernetes, Airflow**  
+- 🔧 Experienced with **Python, Kafka, Elasticsearch, Logstash, Kibana, FastAPI, Docker, Kubernetes**  
 - 📊 Focused on building **real-time AI-powered systems** with reliability and scalability in mind  
 - 🌱 Currently exploring **LLMs, RAG, and agentic AI applications**  
 
