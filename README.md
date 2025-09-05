@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amrita  
 
-🎓 Master of Engineering (ECE) @ XYZ University (AI & Data Engineering specialization)  
+🎓 Master of Engineering (ECE) @ Toronto Metropolitan University (AI & Data Engineering specialization)  
 💻 6+ years in **IoT platforms, data engineering, and software development**  
 🔬 Passionate about **AI, ML, Secure ML, LLMs, and MLOps**  
 🌍 Currently based in Toronto, open to **AI Engineer, Data Engineer, and Software Developer** roles  
