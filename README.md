@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Amrita  
 
 🎓 Master of Engineering (ECE) @ XYZ University (AI & Data Engineering specialization)  
 💻 6+ years in **IoT platforms, data engineering, and software development**  
@@ -18,16 +18,16 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Python, SQL, C, VHDL/Verilog  
+**Languages:** Python, Nodejs, VHDL/Verilog  
 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, MLflow  
-**Data Engineering:** Kafka, Elasticsearch, Logstash, Airflow, FastAPI, Docker, Kubernetes  
+**Data Engineering:** Kafka, Elasticsearch, Logstash, FastAPI, Docker, Kubernetes  
 **Cloud & Tools:** Google Cloud, Git, Linux, CI/CD, MLOps frameworks  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 [**Go Job Orchestrator (Gin + Kubernetes Jobs) **](#)  
+🔹 [**Go Job Orchestrator (Gin + Kubernetes Jobs)**](#)  
 A lightweight job orchestration service which lets you upload files, create jobs dynamically, fetch logs, and
 download results, all with a simple REST API.
 
