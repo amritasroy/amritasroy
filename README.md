@@ -24,30 +24,4 @@
 **Cloud & Tools:** Google Cloud, Git, Linux, CI/CD, MLOps frameworks  
 
 ---
-
-## 📂 Featured Projects  
-
-🔹 [**Go Job Orchestrator (Gin + Kubernetes Jobs)**](#)  
-A lightweight job orchestration service which lets you upload files, create jobs dynamically, fetch logs, and
-download results, all with a simple REST API.
-
-🔹 [**MLOps-enabled Vehicle Telemetry Analytics**](#)  
-End-to-end streaming analytics pipeline with Kafka, ELK, MLflow, and Docker.  
-
-🔹 [**Federated Learning Security Analysis**](#)  
-Systematic study & experiments on **model poisoning attacks in federated learning**.  
-
-🔹 [**Endoscopy Image Analysis (CNN + LSTM)**](#)  
-Deep learning pipeline for medical image classification using pre-trained CNNs with LSTM.  
-
----
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio / Personal Website](#)  
-- 📧 [Email](#)  
-
----
-
 ✨ *“Building intelligent, reliable, and secure AI systems that make an impact.”* ✨  
